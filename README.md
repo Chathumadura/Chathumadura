@@ -1,10 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:7C3AED&height=220&section=header&text=Kavishka%20Chathumadura&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Mobile%20Developer%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=17" />
-
 <div align="center">
 
-### Building practical software, intelligent systems, and useful digital experiences.
+# 👨‍💻 Kavishka Chathumadura
+
+### Software Engineer · Full-Stack & Mobile Developer · AI/ML Enthusiast
 
 **BSc (Hons) in Information Technology · Sri Lanka 🇱🇰**
+
+Building practical software, intelligent systems, and useful digital experiences.
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Chathumadura-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chathumadura)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavishka.chathumadura250@gmail.com)
@@ -154,4 +158,10 @@ Research on multimodal AI for practical corn crop monitoring and explainable far
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:1D4ED8,100:0F172A&height=105&section=footer" />
+<div align="center">
+
+---
+
+**Thanks for visiting my profile ✨**
+
+</div>
